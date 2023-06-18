@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Giant alligator removed from Florida pool",
+      "description": "Wildlife officials were in for a surprise when they received a call from a homeowner.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65883859",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/146F0/production/_130069638_p0fts9z9.jpg",
+      "publishedAt": "2023-06-12T17:37:18.4707411Z",
+      "content": "Up Next. WATCH: Memorable moments from Silvio Berlusconi's life. Video, 00:00:46WATCH: Memorable moments from Silvio Berlusconi's life"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The Ukraine offensive: What will win it or lose it?",
+      "description": "If Ukraine can split Russian troops in the south and hold the ground, its offensive will have been successful.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65881261",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CF0/production/_130069691_gettyimages-1258632908.jpg",
+      "publishedAt": "2023-06-12T17:22:17.1120156Z",
+      "content": "\"Don't call it a counter-offensive,\" say the Ukrainians. \"This is our offensive, it's our chance to finally drive out the Russian army from our land.\"\r\nAlright, but what will it take to actually succ… [+5353 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US I-95 highway collapse will take 'months' to repair",
+      "description": "Pennsylvania's governor is to declare a state of emergency to expedite funds for repairs of the road.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65881779",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6BC2/production/_130068572_gettyimages-1258618444.jpg",
+      "publishedAt": "2023-06-12T16:37:16.6122831Z",
+      "content": "Media caption, Watch: Philadelphia freeway partially collapses after oil tanker fire\r\nA portion of one of the busiest motorways in the US will probably take months to repair after it collapsed over t… [+819 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump heads to Florida ahead of court appearance",
+      "description": "The former president will be formally charged on Tuesday with illegally retaining classified documents.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65883615",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/171E8/production/_130069649_trump-indictment.jpg",
+      "publishedAt": "2023-06-12T16:22:14.7529488Z",
+      "content": "Media caption, Watch: Trump's arrest in Florida explained in 90 seconds\r\nFormer US President Donald Trump is on his way to Florida where he will appear in court on Tuesday charged with mishandling na… [+1094 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Biden to have root canal procedure at White House",
+      "description": "The 80-year-old president reported on Sunday that his lower right premolar was hurting.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65851446",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E817/production/_130051495_gettyimages-1497004294.jpg",
+      "publishedAt": "2023-06-12T16:07:22.7526276Z",
+      "content": "US President Joe Biden will undergo a root canal at the White House on Monday, his doctor has said. \r\nThe 80-year-old complained of dental pain on Sunday and an examination was performed that day, sa… [+1005 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Colombia plane crash: Mum told children to leave her and get help",
+      "description": "The children's mother survived for four days after the plane crashed in the jungle.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-65874377",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D508/production/_130063545_jungle_colombia.jpg",
+      "publishedAt": "2023-06-12T15:52:16.2207675Z",
+      "content": "The mother of four children rescued after 40 days in the Amazon jungle was alive for four days after their plane crashed. \r\nMagdalena Mucutuy told her children to leave and find help as she lay dying… [+4932 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Four memorable moments from Silvio Berlusconi's life",
+      "description": "The former Italian PM, well known for a colourful private life, has died at the age of 86.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65877716",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0222/production/_130064500_p0ftpqvr.jpg",
+      "publishedAt": "2023-06-12T11:37:17.6277127Z",
+      "content": "Former Italian Prime Minister Silvio Berlusconi has died at the age of 86, after being treated for a lung infection linked to chronic leukaemia.\r\nHe led the Italian government four times, repeatedly … [+512 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Joni Mitchell makes triumphant return to the stage",
+      "description": "Supported by a host of famous fans, the star played her first headline show in more than 20 years.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-65876678",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/51D2/production/_130064902_gettyimages-1497626241.jpg",
+      "publishedAt": "2023-06-12T10:37:17.3779646Z",
+      "content": "Joni Mitchell was showered with love on Saturday night, as she played her first headline show in more than 20 years.\r\nUntil recently, the chance of seeing the 79-year-old in concert had seemed like a… [+7294 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Kyiv claims first victories of counter-offensive",
+      "description": "Kyiv says it has liberated three villages - the first since President Zelensky said the assault was under way.",
+      "url": "http://www.bbc.co.uk/news/live/world-europe-65872310",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-06-12T06:07:21.4185061Z",
+      "content": "Ukraine says Russia has targeted another dam - this time in the Zaporizhzhia region.\r\nA spokesperson for the Ukrainian military, Valeriy Shershen, said Moscow's forces blew up the structure near the … [+519 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "George Soros hands reins of $25bn empire to son Alex",
+      "description": "The American financier, targeted by right-wing conspiracists, is passing control of foundations to his son.",
+      "url": "http://www.bbc.co.uk/news/business-65874494",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B046/production/_130062154_fph2fdvwyaegfey.jpg",
+      "publishedAt": "2023-06-12T01:22:14.0803456Z",
+      "content": "US billionaire philanthropist George Soros has handed over the running of his $25bn (£19.9bn) financial and charitable empire to his son Alex.\r\nThe Hungarian-born financier said his son had \"earned i… [+3066 chars]"
+    }
+  ]
+}
